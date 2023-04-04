@@ -1,4 +1,4 @@
-# 1st-Python-Code
+# 1st-Python-Notebook
 {
   "metadata": {
     "language_info": {
